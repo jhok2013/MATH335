@@ -1,7 +1,7 @@
 ---
 title: "Wealth and Life Expectancy"
 author: "James Hough"
-date: "January 16, 2020"
+date: "January 17, 2020"
 output:
   html_document:  
     keep_md: true
